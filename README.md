@@ -1,4 +1,4 @@
-# gitcoin-network-security-hackathon
+# gitcoin-network-security-hackathon submission
 
 ## 4 Ideas for Security:
 
